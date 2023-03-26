@@ -18,8 +18,8 @@ def main():
     ~ ~ = Letter not in word
         ''')
     # WORDLE RANDOMIZED SELECTION
-    #word = get_random_wordle()
-    word = "SHORE"
+    word = get_random_wordle()
+    #word = "SHORE"
 
     # 6 ATTEMPTS
     for i in range(6):
